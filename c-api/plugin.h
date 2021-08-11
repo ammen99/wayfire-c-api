@@ -1,3 +1,4 @@
+#pragma once
 #include <output.h>
 
 #ifdef __cplusplus
